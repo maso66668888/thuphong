@@ -1,0 +1,6 @@
+{
+  "name": "Thu Phong - Nhắc Nhở Học Tập & Bài Tập",
+  "description": "Ứng dụng hỗ trợ học tập Thu Phong với chú gấu trúc dễ thương, nhắc nhở làm bài tập nhiều lần trong ngày, tùy chỉnh khung giờ linh hoạt cùng giao diện học tập sinh động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
